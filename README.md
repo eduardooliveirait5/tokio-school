@@ -34,7 +34,7 @@ Exercícios relacionados ao desenvolvimento em Python, incluindo fundamentos da 
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Eduardo Oliveira**
 
